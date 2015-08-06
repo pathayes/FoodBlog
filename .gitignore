@@ -58,11 +58,11 @@ CHANGELOG.md
 /core/test/functional/*.png
 /core/test/coverage
 
-config.js
+#config.js
 /core/client/config.js
 
 # Built asset files
-/core/built
+#/core/built
 /core/server/views/default.hbs
 
 # Coverage reports
